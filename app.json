@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sh1ck",
+    "slug": "sh1ck",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
